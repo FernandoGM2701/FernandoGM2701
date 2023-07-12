@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Fernando Gutierrez</h1>
 <h3 align="left">A passionate full stack developer from Perú</h3>
 
-
-- 🔭 I’m working on **infobae**
-
 - 📫 How to reach me **fernandogm2701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
